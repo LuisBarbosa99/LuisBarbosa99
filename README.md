@@ -76,4 +76,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisbarbosa99&show_icons=true&locale=en&layout=compact&theme=dracula" alt="luisbarbosa99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisbarbosa99&count_private=true&show_icons=true&locale=en&theme=dracula" alt="luisbarbosa99" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luisbarbosa99&count_private=true&show_icons=true&locale=en&theme=dracula" alt="luisbarbosa99" />
