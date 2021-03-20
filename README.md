@@ -39,11 +39,8 @@
   <a href="https://expressjs.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> 
   </a> 
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
@@ -57,8 +54,10 @@
   <a href="https://rubyonrails.org" target="_blank"> 
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rails"/> 
   </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> 
+  
+  
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
   </a> 
    
 </p>
