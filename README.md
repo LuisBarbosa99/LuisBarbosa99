@@ -69,7 +69,13 @@
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">
     </a>
+    <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank">
+      <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    </a>
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    <a href="https://insomnia.rest/" target="_blank">
+      <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+    </a>
   </p>
    
 </p>
