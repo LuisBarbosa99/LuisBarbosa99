@@ -9,8 +9,8 @@
 
 - ⚡ Fun fact: **I just pretend to know how to program**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/luis-eduardo-barbosa" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luis-eduardo-barbosa" />
   </a>
@@ -19,8 +19,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
   </a> 
@@ -62,7 +62,7 @@
   </a> 
   
   
-  <p>
+  <p align="center">
     <a href="https://www.linux.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
     </a>
@@ -79,7 +79,7 @@
   </p>
    
 </p>
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisbarbosa99&count_private=true&show_icons=true&locale=en&theme=dracula" alt="luisbarbosa99" />
   
 </p>
