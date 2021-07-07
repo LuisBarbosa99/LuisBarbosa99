@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisbarbosa99&label=Profile%20views&color=0e75b6&style=flat" alt="luisbarbosa99" /> </p>
 
-- 🌱 I’m currently learning **Unit Tests and PostgreSQL**
+- 🌱 I’m currently learning **Unit Tests and Scala**
 
 - 💬 Ask me about **beers**
 
