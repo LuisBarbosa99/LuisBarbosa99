@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Scala**
 
-- 💬 Ask me about **beers**
+- 💬 Ask me about **TDD, Project Patterns, Java and beers**
 
 - ⚡ Fun fact: **I just pretend to know how to program**
 
