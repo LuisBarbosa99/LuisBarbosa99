@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisbarbosa99&label=Profile%20views&color=0e75b6&style=flat" alt="luisbarbosa99" /> </p>
 
-- 🌱 I’m currently learning **Scala**
+- 🌱 I’m currently learning **Scala and NestJS**
 
 - 💬 Ask me about **TDD, Project Patterns, Java and beers**
 
