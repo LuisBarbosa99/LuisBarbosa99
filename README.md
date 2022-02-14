@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luis Barbosa 🦐 </h1>
-<h3 align="center">Software Developer and Information Systems student at UPE.</h3>
+<h3 align="center">Software Developer and Information Systems graduate at UPE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisbarbosa99&label=Profile%20views&color=0e75b6&style=flat" alt="luisbarbosa99" /> </p>
 
