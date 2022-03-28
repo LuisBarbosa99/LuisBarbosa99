@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisbarbosa99&label=Profile%20views&color=0e75b6&style=flat" alt="luisbarbosa99" /> </p>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Message Brokers**
 
 - 💬 Ask me about **TDD, Project Patterns, Java and beers**
 
@@ -77,9 +77,4 @@
       <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
     </a>
   </p>
-   
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisbarbosa99&count_private=true&show_icons=true&locale=en&theme=dracula" alt="luisbarbosa99" />
-  
 </p>
