@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **TDD, Project Patterns, Java and beers**
 
-- ⚡ Fun fact: **I just pretend to know how to program**
+- ⚡ Fun fact: **I can't jump rope**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
