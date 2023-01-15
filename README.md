@@ -42,7 +42,7 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> 
   </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
+  <a href="https://nestjs.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/> 
   </a> 
   <a href="https://www.npmjs.com/" target="_blank">
