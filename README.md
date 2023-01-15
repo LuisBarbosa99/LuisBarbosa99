@@ -42,6 +42,9 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> 
   </a> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/> 
+  </a> 
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   </a>
@@ -60,11 +63,19 @@
   <a href="https://rubyonrails.org" target="_blank"> 
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rails"/> 
   </a> 
-  
+  <a href="https://aws.amazon.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> 
+  </a>   
+  <a href="https://kotlinlang.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/> 
+  </a> 
   
   <p align="center">
     <a href="https://www.linux.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> 
+    </a>
+    <a href="https://pop.system76.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="popos"/> 
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">
